@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗼𝗻 𝘁𝗵𝗲 𝗙𝗹𝘆 🚀: Rapid Policy Adaptation <br> via Differentiable Simulation </h1>
+  <h1 align="center"> 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗼𝗻 𝘁𝗵𝗲 𝗙𝗹𝘆: Rapid Policy Adaptation <br> via Differentiable Simulation </h1>
   <p align="center">
     <a href="https://mpan31415.github.io/">Jiahe Pan</a><sup>*</sup>
     .
