@@ -17,7 +17,6 @@
     <i>Robotics and Perception Group, University of Zürich</i>
   </p>
   <p align="center"> <strong>IEEE Robotics and Automation Letters (RA-L) </strong> - To appear at <a href="https://2026.ieee-icra.org/">ICRA 2026</a></p>
-  <p align="center"> (presented at the <a href="https://rational-robots.github.io/">Resource-Rational Robot Learning Workshop, CoRL 2025</a>)</p>
   <h3 align="center">
 
  <!-- [![ProjectPage](https://img.shields.io/badge/Project_Page)](-) -->
